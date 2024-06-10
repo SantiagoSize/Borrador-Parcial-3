@@ -2,7 +2,7 @@
 
 
 print("Bienvenido al terminal de arriendo de viviendas de lukironsantieneltik")
-from Libreria import (solicitar_RUT, crear_contraseña, mostrar_reglas, solicitar_continuacion, solicitar_informacion_arriendo, solicitar_liquidaciones,mostrar_informacion_arriendo)
+from Libreria_LIS import (solicitar_RUT, crear_contraseña, mostrar_reglas, solicitar_continuacion, solicitar_informacion_arriendo, solicitar_liquidaciones,mostrar_informacion_arriendo)
 
 
 
