@@ -1,4 +1,3 @@
-
 viviendas_arrendadas = []
 viviendas_publicadas = []
 
